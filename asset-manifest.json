@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/convertrix-deploy/static/css/main.07adb9b7.css",
-    "main.js": "/convertrix-deploy/static/js/main.a1c7a71c.js",
-    "static/js/787.b81fd778.chunk.js": "/convertrix-deploy/static/js/787.b81fd778.chunk.js",
-    "index.html": "/convertrix-deploy/index.html",
-    "main.07adb9b7.css.map": "/convertrix-deploy/static/css/main.07adb9b7.css.map",
-    "main.a1c7a71c.js.map": "/convertrix-deploy/static/js/main.a1c7a71c.js.map",
-    "787.b81fd778.chunk.js.map": "/convertrix-deploy/static/js/787.b81fd778.chunk.js.map"
+    "main.css": "/static/css/main.07adb9b7.css",
+    "main.js": "/static/js/main.7ae3f14c.js",
+    "static/js/787.b81fd778.chunk.js": "/static/js/787.b81fd778.chunk.js",
+    "index.html": "/index.html",
+    "main.07adb9b7.css.map": "/static/css/main.07adb9b7.css.map",
+    "main.7ae3f14c.js.map": "/static/js/main.7ae3f14c.js.map",
+    "787.b81fd778.chunk.js.map": "/static/js/787.b81fd778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07adb9b7.css",
-    "static/js/main.a1c7a71c.js"
+    "static/js/main.7ae3f14c.js"
   ]
 }
